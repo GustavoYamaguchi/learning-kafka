@@ -1,0 +1,8 @@
+
+f
+java:S2095"KUse try-with-resources or close this "KafkaProducer" in a "finally" clause.(žþÍ–ûÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(È•Û¿
+S	java:S106"9Replace this use of System.out or System.err by a logger.(”ŽøÏùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Íç©ùÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ð“•·
