@@ -1,9 +1,9 @@
 
 =
 java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ñ¾¢
 S	java:S106"9Replace this use of System.out or System.err by a logger.(û‰–°ùÿÿÿÿ
-Q	java:S125"<This block of commented-out lines of code should be removed.(²“†
 S	java:S106"9Replace this use of System.out or System.err by a logger.(¿†öëøÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(²“†
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ñ¾¢
 \
 java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
